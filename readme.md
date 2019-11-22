@@ -1,6 +1,6 @@
-# Jordan Teaches Web Scraping - Save to CSV 101
+# Jordan Teaches Web Scraping - Axios for web requests 101
 
-This repository goes over the basics of using Cheerio on HTML.
+This repository goes over the basics of using Axiosjs to make web requests.
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ Clone or download the repository and run `npm install`.
 
 Running `npm start` after this point
 
-[Full Guide Here](https://javascriptwebscrapingguy.com/save-to-csv-jordan-teaches-web-scraping)
+[Full Guide Here](https://javascriptwebscrapingguy.com/axios-jordan-teaches-web-scraping)
 
 ### Prerequisites
 
@@ -27,6 +27,7 @@ npm i
 ## Built With
 
 * [NodeJS](https://nodejs.org/en/) - NodeJS
+* [Axiosjs](https://github.com/axios/axios) - Library to make web requests
 * [Cheerio](https://github.com/cheeriojs/cheerio) - Library to parse html
 * [json2csv](https://github.com/zemirco/json2csv) - Library to parse json into csv
 
