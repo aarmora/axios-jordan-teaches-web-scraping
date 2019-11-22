@@ -1,0 +1,37 @@
+{
+	"name": "axios-jordan-teaches-web-scraping",
+	"version": "1.0.0",
+	"description": "This is a guide on web scraping that focuses on how to make the web request to any website. Using javascript and nodejs.",
+	"main": "./dist/index.js",
+	"scripts": {
+		"start": "tsc && node ./dist/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/aarmora/csv-jordan-teaches-web-scraping.git"
+	},
+	"keywords": [
+		"typescript",
+		"web",
+		"scraping",
+		"javascript",
+		"csv-parser"
+	],
+	"author": "Jordan Hansen",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/aarmora/csv-jordan-teaches-web-scraping/issues"
+	},
+	"homepage": "https://github.com/aarmora/csv-jordan-teaches-web-scraping#readme",
+	"dependencies": {
+		"axios": "^0.19.0",
+		"cheerio": "^1.0.0-rc.3",
+		"json2csv": "^4.5.4"
+	},
+	"devDependencies": {
+		"@types/axios": "^0.14.0",
+		"@types/cheerio": "^0.22.14",
+		"@types/json2csv": "^4.5.0",
+		"typescript": "^3.7.2"
+	}
+}
